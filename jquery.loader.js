@@ -108,4 +108,4 @@
         }
     }; // $.fn.loader
 
-} (jQuery)); // jQuery.loader() by Stéphan Zych (monkeymonk.be)
+} (jQuery));
